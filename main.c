@@ -49,7 +49,7 @@ int raise_solution(solution) {
 
 int main(int argc, char const *argv[])
 {
-	printf("一元二次方程计算器 Linear Equation with Two Unknowns Solver 2023.3.1\n");
+	printf("一元二次方程计算器 Linear Equation with Two Unknowns Solver 2023.4.0\n");
 	printf("作者/开发者：轩哥啊哈OvO   C\n");
 	printf("Copyright (c) 2023 轩哥啊哈OvO\n");
 	printf("----------------------------------------------------------------------\n");
